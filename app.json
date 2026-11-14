@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Painel de Inteligência Territorial",
+    "slug": "painel-inteligencia-territorial",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "br.fiap.painelterritorial"
+    },
+    "ios": {
+      "bundleIdentifier": "br.fiap.painelterritorial"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
